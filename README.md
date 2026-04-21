@@ -9,3 +9,4 @@ Python data analysis project concentrating Greece's electrical load values in an
 - Energy load values
 - start date: 2025-01-01
 - 24 Timestampes
+- Diagram visualization
