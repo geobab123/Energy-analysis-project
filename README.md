@@ -1,5 +1,5 @@
 # Energy-analysis-project
-Python data analysis project concentrating greece's electrical load values in an ecxel file. 
+Python data analysis project concentrating Greece's electrical load values in an ecxel file. 
 
 ## Tools Used
 - Python
